@@ -51,16 +51,30 @@ def sumaCyfry():
 ################################################################
 #Potegowanie
 def potegowanie():
-    a=6
-    b=3
+    a=int(input("a: "))
+    b=int(input("b: "))
     wynik=1
     while(b>0):
         wynik = a * wynik
-        b = b-1
+        b = b - 1
+    while(b<0):
+        wynik = wynik *a
+        b = b + 1
     return wynik
 #################################################################
+#srednia arytmetyczna
+def sredniaArytmetyczna():
+    n = int(input("Podaj ilosc liczb: "))
+    wynik = 0
+    i = 0
+    while(i<n):
+        a = int(input("a:"))
+        wynik = wynik + a
+        i = i +1
+    wynik = wynik / n
+    return wynik
 
-
+print(sredniaArytmetyczna())
 
 
 

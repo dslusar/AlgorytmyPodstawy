@@ -38,6 +38,18 @@ def binarySearch():
             print("od wartosci tbalicy; ", l)
 ##############################################################
 
+#Suma cyfr liczby calkowitej
+def sumaCyfry():
+    x = int(input("Podaj liczbe: "))
+    result = 0
+    if x == result:
+        return None
+    while(x>0):
+        result = result + (x%10) #np dla x = 112 -> 0=0+2
+        x=x//10 #112=112/10->11 -> petla
+    return result
+
+print(sumaCyfry())
 
 
 

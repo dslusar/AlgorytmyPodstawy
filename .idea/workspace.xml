@@ -17,9 +17,20 @@
       <file leaf-file-name="algorytmy.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorytmy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="48" column="35" lean-forward="false" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="352">
+              <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+              <folding>
+                <element signature="e#68#253#0" expanded="false" />
+                <element signature="e#253#295#0" expanded="false" />
+                <element signature="e#336#862#0" expanded="false" />
+                <element signature="e#580#862#0" expanded="false" />
+                <element signature="e#696#763#0" expanded="false" />
+                <element signature="e#806#861#0" expanded="false" />
+                <element signature="e#862#924#0" expanded="false" />
+                <element signature="e#976#1196#0" expanded="false" />
+                <element signature="e#1088#1178#0" expanded="false" />
+                <element signature="e#1197#1261#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -241,15 +252,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#68#253#0" expanded="false" />
+            <element signature="e#253#295#0" expanded="false" />
+            <element signature="e#336#862#0" expanded="false" />
+            <element signature="e#580#862#0" expanded="false" />
+            <element signature="e#696#763#0" expanded="false" />
+            <element signature="e#806#861#0" expanded="false" />
+            <element signature="e#862#924#0" expanded="false" />
+            <element signature="e#976#1196#0" expanded="false" />
+            <element signature="e#1088#1178#0" expanded="false" />
+            <element signature="e#1197#1261#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorytmy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="48" column="35" lean-forward="false" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="352">
+          <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          <folding>
+            <element signature="e#68#253#0" expanded="false" />
+            <element signature="e#253#295#0" expanded="false" />
+            <element signature="e#336#862#0" expanded="false" />
+            <element signature="e#580#862#0" expanded="false" />
+            <element signature="e#696#763#0" expanded="false" />
+            <element signature="e#806#861#0" expanded="false" />
+            <element signature="e#862#924#0" expanded="false" />
+            <element signature="e#976#1196#0" expanded="false" />
+            <element signature="e#1088#1178#0" expanded="false" />
+            <element signature="e#1197#1261#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

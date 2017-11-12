@@ -48,8 +48,20 @@ def sumaCyfry():
         result = result + (x%10) #np dla x = 112 -> 0=0+2
         x=x//10 #112=112/10->11 -> petla
     return result
+################################################################
+#Potegowanie
+def potegowanie():
+    a=6
+    b=3
+    wynik=1
+    while(b>0):
+        wynik = a * wynik
+        b = b-1
+    return wynik
+#################################################################
 
-print(sumaCyfry())
+
+
 
 
 
